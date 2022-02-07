@@ -459,15 +459,6 @@ msgstr ""
 msgid "Sun"
 msgstr "Søn"
 
-["søndag" "mandag" "tirsdag" "onsdag" "torsdag" "fredag" "lørdag"])
-
-      ["søn" "man" "tirs" "ons" "tors" "fre" "lør"])
-
-      ["sø" "ma" "ti" "on" "to" "fr" "lø"])
-
-              "juli" "august" "september" "oktober" "november" "december"])
-
-
 msgid "Mon"
 msgstr "Man"
 

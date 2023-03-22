@@ -1,3 +1,6 @@
+# NOTE:
+Now musl-locales in community [repo](https://git.adelielinux.org/adelie/musl-locales) of [Alpine Linux](https://pkgs.alpinelinux.org/packages?name=musl-locales&branch=edge&repo=&arch=&maintainer=)
+
 # Locales support for musl
 Locale program for musl libc
 
@@ -18,5 +21,3 @@ English and Russian included, also .pot file.
 
  - All translations and scripts uses [MIT](LICENSE.MIT)
  - Source files for `/usr/bin/locale` uses [LGPL](LICENSE)
-
-Now musl-locales in community repo of Alpine Linux)
